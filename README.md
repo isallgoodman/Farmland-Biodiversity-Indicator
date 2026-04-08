@@ -1,5 +1,5 @@
 # Farmland-Biodiversity-Indicator
-Developing a Farmland Biodiversity Indicator using DLR CropTpe Maps , Copernicus LMS data for Bayern District Germany 
+Developing a Farmland habitat Biodiversity Indicator using DLR CropTpe Maps , Copernicus LMS data for Bayern District Germany 
 with OECD Guidelines 
 
 Part for Master Thesis supervised by 
@@ -31,7 +31,12 @@ The codes uploaded are Chronolgically named which follows the methodology
 3=Assigning Habitat Qiuality Scores /resampling ( editable )
 4=Final mosaicing and hexagonal representation
 
+
 if the names have alphanumeric numbers such as 1a, 2a they denote a sub process of the main task 
+"FHBI_hexagons" file is the final Indicator that shows on Bayern that runs
+FHBI = (% Very low × 0) + (% Low × 0.25) + (% Moderate × 0.5) + (% High × 0.75) + (% Very high × 1.0) 
+
+
 
 
 
